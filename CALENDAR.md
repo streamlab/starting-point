@@ -60,27 +60,27 @@
   
 ## August 24
 
-## Instructors 
+### Instructors 
   - Dana, Dave, Emily (John away and offline)
   
-## Hour 1 - Small Group Story Presentations
+### Hour 1 - Small Group Story Presentations
  - Five-minute presentations on possible focus areas by each small group
  - Document Team members ensure the 
 
-## Hour 2 - Team Lab Time
+### Hour 2 - Team Lab Time
 
 Teams will be announced at the start of this class. 
 
-### Water Team
+#### Water Team
 - Working from the presentations last hour, conduct further research where we might conduct our sensor project -- and actually pick your top recommendation and one alternate. Look specifically at issues that may show changes in turbidity over time or over distance in October. Collaborate with Story Team on this.
 
-### Story Team
+#### Story Team
 - Working with the Water Team, research the issues, industries and possibly affected people in the areas we are considering. Make a list of the people you would like to interview, and feel free to reach out to some of them for background discussions during class or later in the week.
 
-### Sensor Team
+#### Sensor Team
 - Get to know the Riffle. Look into the background online, and the motivations for building it. Figure out how it works and give it a try.  Learn how to get data off of it. Be prepared to demonstrate for the class.
 
-### Document Team
+#### Document Team
 - Establish and pick a layout for a blog that can take posts from all of your team members and is good for showing photos, blog posts and other content. Be sure there is some fixed area where we can link out to other project pages (such as for data) and also our collaborators and partners.
 - Make an introductory post for the project, and then additional posts that list/show the areas under consideration.
 
