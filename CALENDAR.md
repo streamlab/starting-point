@@ -1,14 +1,15 @@
-# Schedule
+# Calendar
 
 ## Before August 17
-  - Students fill out team profile form
+  - Students sign up for Slack
+  - Everyone tells a little bit about themselves in Slack
 
-## August 17
+## August 17, 2015
 
 ### Instructors
   - Dana, Dave, Emily & John, all on site at WVU 
 
-### Hour 1 - Introduction
+### Hour 1 - Welcome
   - _all lead_
   - Welcome & Introductions
   - Class Tracks
@@ -16,7 +17,7 @@
     - SENSORS: Using the sensors
     - STORY: What story are we sensing?
     - DOCUMENT: Document the process, share it for all, record our successes & failures
-  - Team details
+  - Team details ([More Here](https://github.com/streamlab/starting-point/blob/master/TEAM-DETAILS.md))
     - STORY
     - WATER
     - SENSORS
