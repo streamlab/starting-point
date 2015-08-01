@@ -20,7 +20,7 @@ You will get to know the sensors well, figure out how they work and don't work, 
 
 ## Presentations
 
-Obviously, not every person can be on every team. So every class, each team will present their current findings. These should be thoughtful and instructive. They aren't just lists of what happened. Lead the discussion. Teach the others what you know so they can use it, too. Some things you can/should present:
+Obviously, not every person can be on every team, so to keep everyone fully involved teams will present their current findings. These should be thoughtful and instructive. They aren't just lists of what happened. Lead the discussion. Teach the others what you know so they can use it, too. Some things you can/should present:
 
 * A demo or slide show about your learnings
 * A presentation on the best discovery you've had
@@ -67,18 +67,5 @@ Okay, not zero email; you will still get official university emails. But please 
 
 Also, Slack will tell you (via email) if you're missing out on something.
 
-## Initial Assignments
 
-### Water Team
-- Research the possible watershed locations to help determine where we might conduct our sensor project. Look specifically at issues that may show changes in turbidity over time or over distance in October. You should collaborate with Story Team on this.
-
-### Story Team
-- Research the issues, industries and possibly affected people in the areas we are considering. Make a list of the people you would like to interview, and feel free to reach out to some of them for background discussions.
-
-### Sensor Team
-- Get to know the Riffle. Look into the background online, and the motivations for building it. Figure out how it works and give it a try.  Learn how to get data off of it. Be prepared to demonstrate for the class.
-
-### Document Team
-- Establish and pick a layout for a blog that can take posts from all of your team members and is good for showing photos, blog posts and other content. Be sure thre is some fixed  area where we can link out to other project pages (such as for data) and also our collaborators and partners.
-- Make an introductory post for the project, and then additional posts that list/show the watershed areas under consideration and also the Sensor team's experimetns with the Riffle.
 

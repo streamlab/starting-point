@@ -141,7 +141,7 @@ Along the way, and in the end, we will publish our process, findings, failings a
 
 ## Schedule
 
-See the latest schedule in the SCHEDULE.md file,
+See the latest schedule in the [SCHEDULE.md](https://github.com/streamlab/starting-point/blob/master/SCHEDULE.md) file.
 
 ## Todos
 
