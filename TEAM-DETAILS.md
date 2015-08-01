@@ -25,7 +25,7 @@ Obviously, not every person can be on every team, so to keep everyone fully invo
 * A demo or slide show about your learnings
 * A presentation on the best discovery you've had
 * A discussion of your concerns and roadblocks
-* Highlighrs of your interviews, experiments, research
+* Highlights of your interviews, experiments, research
 
 Focus on the things we need to know!
 
@@ -55,7 +55,7 @@ We have the following channels, which everyone has access to:
 * #random - unrelated shareable randomness
 * #ice-cream - because it is great
 
-Bedfore the first class, you will need to register for our Slack. Watch for an invitation email!
+Before the first class, you will need to register for our Slack. Watch for an invitation email!
 
 Please make sure to set up a profile with your full name. Please be sure to use an actual photo of you as your icon. It's going to be hard to match faces with names from afar, and this will help John a ton. The Slackbot will help you do some of this, and you can click on your name in the upper left to manage your profile.
 
