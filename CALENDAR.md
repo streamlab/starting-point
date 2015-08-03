@@ -41,12 +41,7 @@
     - Understanding our general area
     - Possible areas of study
     - Sources and background
-  - The qualities we'll need to make a good story _Dave Leads_
-    - What are the issues that will make a good story
-    - How might we use our own data
-    - How might we use the data and expertise of others
-    - Where might this story appear
-    - Who's our audience
+
 
 ### Assignment for August 24: Finding a Story
   - Working in small groups of twos or threes, everyone picks a possible focus area from Emily's list. One or two groups might be chose to find a story not on the list
@@ -65,10 +60,21 @@
   - Dana, Dave, Emily (John away and offline)
   
 ### Hour 1 - Small Group Story Presentations
+ - Moderated by Dave
  - Five-minute presentations on possible focus areas by each small group
- - Document Team members ensure the 
+ - Document Team members ensure the presentations are recorded
+ 
+ Followed by Dave discussing the qualities we'll need to make a good story _Dave Leads_
+  - What are the issues that will make a good story
+  - How might we use our own data
+  - How might we use the data and expertise of others
+  - Where might this story appear
+  - Who's our audience
+ 
+### Hour 2 - Guest Speaker Ken Ward
+  - Ken Ward, a longtime environmental reporter with the Charleston Gazette, is one of our media partners and will talk about water quality issues in WV and how to best cover stories on this topic.
 
-### Hour 2 - Team Lab Time
+### Hour 3 - Team Lab Time
 
 Teams will be announced at the start of this class. 
 
@@ -85,9 +91,7 @@ Teams will be announced at the start of this class.
 - Establish and pick a layout for a blog that can take posts from all of your team members and is good for showing photos, blog posts and other content. Be sure there is some fixed area where we can link out to other project pages (such as for data) and also our collaborators and partners.
 - Make an introductory post for the project, and then additional posts that list/show the areas under consideration.
 
-### Hour 3 - Grades & policies
-  - _Dana Leads_
-  - Details on grades and class policies outlined and questions answered
+
   
 ### Assignment for August 31: Each Team Presents
   - Each team -- Water, Story, Sensor and Document -- presents findings so far
@@ -106,7 +110,7 @@ Teams will be announced at the start of this class.
   
 ### Hour 1 - Team Presentations & Discussions
 
-### Hour 2 - Guest Speaker Todd Perry
+### Hour 2 - Guest Speaker Todd Petty
 
 ### Hour 3 - Site Selection + Team Lab Time
   - We will agree on the site and storyline for the 
@@ -216,6 +220,13 @@ Back in action after the holiday.
 
 ## November 2
 
+**Important Note**: This will likely be the weekend we will retrieve all of our Riffles. Depending on the locations, this could happen on Sunday, November 1. Please mark your calendars!
+
+### Entire Period: Data download & review  
+  - We will get the data visualize it and talk about what we see.
+  - We'll outline the shape of the story
+  - Story & Water teams will start reaching out to experts and sources for comment
+
 ### Instructors 
   - Dana, Dave and Emily on campus; John via Skype.
 
@@ -227,27 +238,22 @@ Back in action after the holiday.
 
 ## November 9
 
-**Important Note**: This will likely be the weekend we will retrieve all of our Riffles. Depending on the locations, this could happen on Sunday, November 8. Please mark your calendars!
+**Important Note**: The first drafts of the feature story (Water + Story Teams) and the process story (Sensor + Document Teams) will be due this week by midnight on **Wednesday, Nov. 11**. Please plan accordingly.
 
 ### Instructors 
   - Dana, Dave, Emily, John, all on campus.
-
-### Entire Period: Data download & review  
-  - We will get the data visualize it and talk about what we see.
-  - We'll outline the shape of the story
-  - Story & Water teams will start reaching out to experts and sources for comment
+  - More data review and visualization
+  - We'll review the collected information and make sure everyone is on track for first drafts on Wednesday
 
 ## November 16
-
-**Important Note**: The first drafts of the feature story (Water + Story Teams) and the process story (Sensor + Document Teams) will be due this week by midnight on **Wednesday, Nov. 18**. Please plan accordingly.
 
 ### Instructors 
   - Dana, Dave and Emily on campus; John via Skype.
   
 ### Plan
-  - We'll review the collected information and make sure everyone is on track for first drafts on Wednesday
-  
+  - Instructors provide feedback on the first draft, chart course for fixes/changes
 
+  
 ## November 23
   - No Class / FALL RECESS / THANKSGIVING WEEK
 
