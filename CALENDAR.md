@@ -59,7 +59,10 @@
 ### Instructors 
   - Dana, Dave, Emily (John away and offline)
   
-### Hour 1 - Small Group Story Presentations
+### Hour 1 - Guest Speaker Ken Ward
+  - Ken Ward, a longtime environmental reporter with the Charleston Gazette, is one of our media partners and will talk about water quality issues in WV and how to best cover stories on this topic.
+ 
+### Hour 2 - Small Group Story Presentations
  - Moderated by Dave
  - Five-minute presentations on possible focus areas by each small group
  - Document Team members ensure the presentations are recorded
@@ -70,9 +73,6 @@
   - How might we use the data and expertise of others
   - Where might this story appear
   - Who's our audience
- 
-### Hour 2 - Guest Speaker Ken Ward
-  - Ken Ward, a longtime environmental reporter with the Charleston Gazette, is one of our media partners and will talk about water quality issues in WV and how to best cover stories on this topic.
 
 ### Hour 3 - Team Lab Time
 
@@ -100,7 +100,6 @@ Teams will be announced at the start of this class.
   - Prepare to welcome questions and to discuss next steps with the entire class.
   - You may need to meet as a team in person or in Slack before the next class
   - Feel free to consult with your instructors over Slack. This is new and we're all finding our way.
-
 
 
 ## August 31
