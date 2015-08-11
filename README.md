@@ -118,7 +118,7 @@ Along the way, and in the end, we will publish our process, findings, failings a
   - Code
   - Raw materials
 
-## Roles
+## Instructors
 
 ### Dana Coester
 
@@ -126,18 +126,22 @@ Along the way, and in the end, we will publish our process, findings, failings a
 - Grading protocols
 - Grant deliverable tracking
 
-### John Keefe
-
-- Editorial and technical lead
-
 ### Emily Corio
 
 - Liaison to community contacts for watershed and water researchers issues
 - Liaison with local journalism organization
 
+### John Keefe
+
+- Editorial and technical lead
+
 ### Dave Mistich
 
 - Journalistic partner for regional innovation
+
+### John Temple
+
+- Helping to coordinate and assess class evolution
 
 ## Schedule
 
@@ -147,3 +151,8 @@ See the latest schedule in the [SCHEDULE.md](https://github.com/streamlab/starti
 
 - Confirm Todd Petty for August 31
 - Schedule Don Blair for visit to WVA
+- Schedule a mapping workshop
+- A github workshop
+- Schedule Rob Byers 
+
+

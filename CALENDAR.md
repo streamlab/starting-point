@@ -24,7 +24,8 @@
     - DOCUMENT
   - Team Sign-up
   - Review Schedule
-  - Any other logistics or administration
+  - Any other logistics or administration _(Emily reviews)_
+  - Opening Survey _(Dana Leads)_
     
 ### Hour 2 - Sensing Water Conductivity
   - _John Leads_
@@ -63,7 +64,7 @@
   - Ken Ward, a longtime environmental reporter with the Charleston Gazette, is one of our media partners and will talk about water quality issues in WV and how to best cover stories on this topic.
  
 ### Hour 2 - Small Group Story Presentations
- - Moderated by Dave
+ - Moderated by Dave and Emily
  - Five-minute presentations on possible focus areas by each small group
  - Document Team members ensure the presentations are recorded
  
@@ -198,7 +199,10 @@ Back in action after the holiday.
 ### Instructors 
   - Dana, Dave and Emily on campus; John via Skype.
   
-### Plan
+### Hour 1
+  - Guest Speaker: Rob Byers, editor at the Charleston Gazette
+
+### Hour 2-3
   - Feature Story development
   - Process Story development
   - Sensor check-in
