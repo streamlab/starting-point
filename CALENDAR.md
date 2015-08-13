@@ -164,7 +164,6 @@ Back in action after the holiday.
 ### Hours 1-3 - Head out to the test site
   - Come to class prepared to hike to a site where we'll deploy a Riffle!
 
-### Guest Speaker: Don Blair, Public Laboratory, maker of Riffle
 
 ### Assignments for September 28: 
   - Sensor team:
@@ -188,6 +187,8 @@ Back in action after the holiday.
 
 ### Instructors 
   - Dana, Dave, Emily, John, all on campus.
+
+### Guest Visitor: Don Blair, Public Laboratory, maker of Riffle
 
   
 ## October 12
