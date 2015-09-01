@@ -168,10 +168,6 @@ Presentation highlights (by John):
         - Simple way to measure Total Dissolved Solids (TDS)
         - Benchmarks
         
-        
-        
-        
-  
 ### Hour 2 - Team Presentations & Discussions
 
 ### Hour 3 - Site Selection + Team Lab Time
