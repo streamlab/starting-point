@@ -109,10 +109,68 @@ Teams will be announced at the start of this class.
 
 ### Instructors 
   - Dana, Dave, Emily (John via Skype)
-  
-### Hour 1 - Team Presentations & Discussions
 
-### Hour 2 - Guest Speaker Todd Petty
+### Hour 1 - Guest Speaker Todd Petty
+
+Presentation highlights (by John):
+
+  - Issues of Uncertainty  
+  - Watersheds
+    - Chesapeake Bay 
+    - Tracking brook trout vulnerability to climate change
+  - Someone Lives Downstream
+    
+  - Bring it Local: West Virginia
+    - Nearly half of River Miles considered "impaired"
+    - Meaning they don't meet the quality criteria for their designated uses
+      - Drinking water
+      - Industrial
+      - Recreational
+      - Biological (all bodies of water)
+    - State has a legal obligation under Clean Water Act to fix them
+    - Dominant Stressors
+      - Acid Mine Drainage (AMD)
+        - Iron + Air + Water = Sulfuric Acid
+      - Factory Chemicals 
+      - Wastewater
+      - Ag Runoff
+        - Chicken manure
+        - Also cows & horses
+      - Acid Rain (still an issue, tho better)
+        - Rainfall use to be below 4 on the acid/base scale (7 is neutral)
+        - Added sulfate scrubbers on smokestacks
+      - Emerging threats
+        - Fracking
+          - Fear of contaminated water tables
+          - Uses lots of water in the process, pulling it out of streams and rivers
+          - Salts dissolve into the water in the process, so makes a wastewater issue
+            - Techniques developed to treat and reuse the wastewater
+        - Climate Change
+        - Something new may pop up
+      - Successes / Clean Water Act
+        - Sheep Lake: Now nice, 20 years ago disgusting
+        - Pine River: Now 80-100 species of fish, before the clean water act there were 2
+        - Otter Creek: Used to be dead, now you can fish in it
+      - Emerging stories
+        - Long-term value of local area to the nation
+        - How much illegal dumping occurs?
+          - Might spot it if conductivity is not behaving the way it should
+        - Just how poor our water sensing really is
+        - Look near drilling and streets and such
+        - Look in neighborhood streams
+        - Can get us fecal kits -- to investigate relation between it and conductivity
+        - Frack tracker website: http://www.fractracker.org/
+        - Todd can connect us with regional managers to ask are there areas of concern
+          - And are there known dumping spots
+        - Where are there "see something say something" signs
+             
+      - Sensors & Conductivity
+        - Salinity: Measure of dissolved salts
+        - Natural water not saline at all
+        - Simple way to measure Total Dissolved Solids (TDS)
+        - Benchmarks
+        
+### Hour 2 - Team Presentations & Discussions
 
 ### Hour 3 - Site Selection + Team Lab Time
   - We will agree on the site and storyline for the 
@@ -213,7 +271,7 @@ Back in action after the holiday.
   - Feature Story development
   - Process Story development
   - Sensor check-in
-  - Adjust course if neccessary
+  - Adjust course if necessary
   - Details TBD
   
 
