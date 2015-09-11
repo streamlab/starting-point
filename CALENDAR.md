@@ -31,6 +31,8 @@
   - _John Leads_
   - Sensing conductivity concepts
   - Demonstration: Making sounds with different water
+    - How I did it [is here](http://johnkeefe.net/make-every-week-audible-water-sensor)
+    - I have kits!
   - Intro to Riffle, our cheap sensor in a bottle
     - How it works
     - How it was made
@@ -154,6 +156,10 @@ Back in action after the holiday.
     - Write and post an update on the current plan
   - Story Team: 
     - Write and post an update on your progress so far
+  - Document Team:
+    - Make the bottle insert!
+  - All:
+      How do we sink this bottle?
 
 
 ## September 21 - Test deployment day!

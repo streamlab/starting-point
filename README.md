@@ -153,6 +153,3 @@ See the latest schedule in the [SCHEDULE.md](https://github.com/streamlab/starti
 - Schedule Don Blair for visit to WVA
 - Schedule a mapping workshop
 - A github workshop
-- Schedule Rob Byers 
-
-
