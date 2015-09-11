@@ -203,9 +203,10 @@ Presentation highlights (by John):
 
 Back in action after the holiday.
 
-### Hour 1 - Team Presentations / Status Update
 
-### Hour 2 - Lecture: Issues around Crowdsourced Data
+### Hour 1 - Lecture: Issues around Crowdsourced Data
+
+### Hour 2 - Team Presentations / Status Update
 
 ### Hour 3 - Logistics and Plans for the Test Deployment
 
@@ -217,7 +218,7 @@ Back in action after the holiday.
   - Document Team:
     - Make the bottle insert!
   - All:
-      How do we sink this bottle?
+      How do we sink this bottle?!
 
 
 ## September 21 - Test deployment day!
